@@ -1,0 +1,18 @@
+---
+title: Starten
+date: "2026-04-20"
+effort: "låg"
+meme: "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZjIwanJzNXh6cXNodjUwMXdiNThzMm5odjQzYTlmcHpranliY3U2eCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dLAW1tqgvXVJ56ZBsP/giphy.gif"
+---
+# Första arbetsdag
+
+
+## Changes:
+
+    Jag har skapat hemsidan och denna devblog vilket har tagit upp mestadels av min tid, tyvärr har jag inte hunnit med någonting på hemsidan.
+    Men min plan är tydlig och jag kommer fokusera på att göra framsteg varje lektion och kanske på helger också.
+    Jag ser fram emot denna resa och skapa mitt projekt kallat: **FruzzFlix**
+
+<hr>
+<br>
+Commit: <a href="<<link to commit>>" target="_blank">Version 0.0.x</a>
